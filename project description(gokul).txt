@@ -1,0 +1,6 @@
+PROBLEM DESCRIPTION:
+ Online banking system software is a tool developed to help the people banking online and very conveniently. It also helps the admins of the bank to manage the accounts and transaction details of the customers. Admins can manage the customer database.
+ This Online banking system makes the admins and thw users very conviniently to access and utilise some basic features as well as some advanced features provided by the bank.
+ it is bettre from the traditional banking techniques which involved the hand written records of each functionality.
+ this project may also come over the other common problems faced by such online banking softwares.
+ this also makes this project very sace and secure to store and manage the information.
